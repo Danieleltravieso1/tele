@@ -1,2 +1,12 @@
-# tele
-tele
+#EXTM3U
+#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="solnetparaguay.m3u"
+#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
+#EXTINF:-1 tvg-id="304542" tvg-name="Tigo Sports ocacional" tvg-logo="https://play-lh.googleusercontent.com/kJzdzpsxJCkLswIZrC09fWZaen5cnGueDt4rtI5qbg-dcudz0-bd5s_TerqhGvmeKvg" group-title="Sin Categoria", Tigo Sports ocacional
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="304541" tvg-name="Suceso tv San Juan N." tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAADhCAMAAADmr0l2AAABYlBMVEX///8AAIA9PZ0yMpn1hjT8/Pz1omQAAH0AAHYAAHn/ZgAAAHQAAIFAQJ80NJr/YQD/XAA5OZwuLpgnJ5b2omH/VwAfH5Tr6/Tf3+z6pF8rK5cXF5Lu7vb2hS/6hywjI5XIyN739/uurs4TE5EqKovS0uS3t9NbW6B4eK+ZmcHh4e6/v9iVlb9nZ6ZhYaMSEoUbG4lJSZiMjMClpciAgLIhIYhVVZ0LC5B4eLdqarBVVadeXqtLS6MjL54+PpOYmMb+k0L+8On/3tD/mm4yMo7Jm5flq45+cqmag6Y9PYq/gn3tl2dmV5MAAGH7lk//0L3/rYr/vqX/RgD/dzL/xq//ilP/8+2uipzoro/zrX/nhU6Hear0eg+3kp364tXSoJShbHzysIZ2YZLvo3LYjXKseYKHbZTfkW/3mFrKiX" group-title="  Abertos", Suceso tv San Juan N.
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="304540" tvg-name="Abc Tv Paraguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTag0wIZ8kwCzNbrRlD355qFq2iFFMW0MJ40CiIP0soJraDlGzDwNQUB0R7mcfSO1kP8X0&usqp=CAU" group-title="  Abertos", Abc Tv Paraguay
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="304539" tvg-name="Gente Tv Paraguay" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAA+VBMVEX///8FN07//v3//v8AMkr8///9//tGYXIEOE4AKEWks7cAHTv+//0AOlAANU/T4ecTOk4AMk4AM0tAYWl0hpCJnKUAKUMALEQDOVAAM0cAIzsAJkEDOUz3//8AI0AAJ0YAKj0AFzsAHjgAM0QGNlMAFzSvu8N8kJrq8O//+f8AITfc4+YAKEAALj7x9vnX3OElS15bcXy7wsQuUWQiRlQAGzKnr7mPpqv///XDz9IAHkJjd4WVoKcAEjfs7vSWpbRLZ3dQbHRDX3ZmfIEWS118lZYCOEK4ytDQ3t1AYWZWanqwt7l2k6AgREq8z9U2UmcsVmApRmPE09DDpZEvAAAMjElEQVR4nO2caXvauBbHj2VLGBAmELCB2AQIBDckLAkNJVvpzbQw7Uzb2+//Ya5sLC+QMC9mDHfynN8b8t" group-title="  Abertos", Gente Tv Paraguay
+https://copacogen.desdeparaguay.net/gentv/gentv_py_baja/chunklist_w660956572.m3u8?k=21e0a3688debf3cdfc97e9e029514586eeabb1f2bd6d854d7bd6989cb4476dec&exp=1711568147&PlaylistM3UCL
