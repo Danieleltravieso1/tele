@@ -5,5 +5,5 @@ https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TRECEParaguay.py" tvg-logo="https://trece.com.py/wp-content/uploads/sites/2/2022/09/trece.jpg" group-title="General",Trece
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
-#EXTINF:-1 tvg-id="812" tvg-name="Suceso TV" tvg-logo="https://cdn.m3u.cl/logo/812_Suceso_TV.png", Suceso TV | PY
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="812" tvg-name="Suceso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg",Telefuturo| PY
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1909437681.m3u8?k=9cabc44d20676349374c54acb45d2a53492c6db6bb1ea99955108c3014a92ca8&exp=1722122098
