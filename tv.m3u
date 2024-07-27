@@ -3,3 +3,5 @@
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-logo="https://i.imgur.com/OqfBMGy.png" group-title="General",ABC-TV Paraguay (720p)
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 tvg-id="TRECEParaguay.py" tvg-logo="https://trece.com.py/wp-content/uploads/sites/2/2022/09/trece.jpg" group-title="General",Trece
+https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
